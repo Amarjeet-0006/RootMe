@@ -206,7 +206,3 @@ nc -lvnp 4444
 find / -perm -4000 2>/dev/null
 ```
 ---
-
-# 📄 License
-
-This project is licensed for educational use only.
