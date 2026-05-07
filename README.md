@@ -10,7 +10,7 @@ Cyber Security & Ethical Hacking Student.
 
 ---
 
-# 🛠️ Tools Used
+# Tools Used
 
 * Nmap
 * Gobuster
@@ -21,7 +21,7 @@ Cyber Security & Ethical Hacking Student.
 
 ---
 
-# 🔍 Step 1 — Reconnaissance
+# Step 1 — Reconnaissance
 
  # Start with an Nmap scan:
  
